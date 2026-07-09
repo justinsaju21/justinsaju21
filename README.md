@@ -10,17 +10,13 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
+## About Me
 
-<div align="center">
-  <p>I am an Electronics and Communication Engineering undergraduate specializing in Data Science at SRM IST. My work bridges the intersection of <b>hardware, software, and artificial intelligence</b>. Utilizing tools like <b>Google Antigravity</b>, I architect high-performance systems—ranging from localized multi-model AI voice assistants to advanced IoT virtual laboratories. I am deeply passionate about translating complex theoretical concepts into functional, real-world prototypes while simultaneously driving digital innovation through leadership in technical communities.</p>
-</div>
+I am an Electronics and Communication Engineering undergraduate specializing in Data Science at SRM IST. My work bridges the intersection of **hardware, software, and artificial intelligence**. Utilizing tools like **Google Antigravity**, I architect high-performance systems—ranging from localized multi-model AI voice assistants to advanced IoT virtual laboratories. I am deeply passionate about translating complex theoretical concepts into functional, real-world prototypes while simultaneously driving digital innovation through leadership in technical communities.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">Projects & Currently Building</h2>
+## Projects & Currently Building
 
 - **Echo AI: Local Multi-Model Voice Assistant**
   <br>A high-performance local AI assistant engineered with FastAPI, PyTorch, and Faster-Whisper. It executes on-device reasoning and real-time voice interaction without relying on external cloud APIs.
@@ -34,11 +30,9 @@
 - **Modern Full-Stack Portfolio Platform**
   <br>A content-managed web platform developed with Node.js, React, and Sanity CMS to serve as a seamless, centralized documentation and portfolio hub.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">Beyond the Code</h2>
+## Beyond the Code
 
 - **Chief Director & Founder, ECHO**
   <br>Spearheading the architectural design and deployment of digital infrastructure and centralized web hosting systems for the ECE Department at SRM IST.
@@ -52,11 +46,9 @@
 - **Electronics Thermal Management Trainee, Dell / Intel**
   <br>Executed component-level computational fluid dynamics (CFD) simulations for high-performance computing using ANSYS Icepak.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">Technologies I Build With</h2>
+## Technologies I Build With
 
 <div align="center">
   <h3>Core</h3>
@@ -76,11 +68,9 @@
   <code>Streamlit</code> • <code>STM32</code> • <code>ESP32</code> • <code>KiCad</code> • <code>LTspice</code> • <code>ANSYS Icepak</code> • <code>Power BI</code> • <code>Google Antigravity</code>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">GitHub Dashboard</h2>
+## GitHub Dashboard
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justinsaju21&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -89,21 +79,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinsaju21&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">Activity Overview</h2>
+## Activity Overview
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinsaju21&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">Contribution Snake</h2>
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -113,11 +99,9 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">Development Summary</h2>
+## Development Summary
 
 <div align="center">
   <a href="https://github.com/justinsaju21">
@@ -125,11 +109,9 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-<h2 align="center">Let's Connect</h2>
+## Let's Connect
 
 <div align="center">
   <p><i>Building practical technology with AI, embedded systems, and modern software.</i></p>
