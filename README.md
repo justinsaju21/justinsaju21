@@ -73,7 +73,7 @@ I am an Electronics and Communication Engineering undergraduate specializing in 
 ## GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinsaju21&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justinsaju21&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinsaju21&theme=tokyonight&hide_border=true" width="48%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinsaju21&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
