@@ -10,9 +10,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=About%20Me&fontSize=28&fontColor=7aa2f7&animation=twinkling" />
-</div>
+<h2 align="center">About Me</h2>
 
 <div align="center">
   <p>I am an Electronics and Communication Engineering undergraduate specializing in Data Science at SRM IST. My work bridges the intersection of <b>hardware, software, and artificial intelligence</b>. Utilizing tools like <b>Google Antigravity</b>, I architect high-performance systems—ranging from localized multi-model AI voice assistants to advanced IoT virtual laboratories. I am deeply passionate about translating complex theoretical concepts into functional, real-world prototypes while simultaneously driving digital innovation through leadership in technical communities.</p>
@@ -22,9 +20,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Projects%20%26%20Currently%20Building&fontSize=28&fontColor=bb9af7&animation=twinkling" />
-</div>
+<h2 align="center">Projects & Currently Building</h2>
 
 - **Echo AI: Local Multi-Model Voice Assistant**
   <br>A high-performance local AI assistant engineered with FastAPI, PyTorch, and Faster-Whisper. It executes on-device reasoning and real-time voice interaction without relying on external cloud APIs.
@@ -42,9 +38,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Beyond%20the%20Code&fontSize=28&fontColor=7aa2f7&animation=twinkling" />
-</div>
+<h2 align="center">Beyond the Code</h2>
 
 - **Chief Director & Founder, ECHO**
   <br>Spearheading the architectural design and deployment of digital infrastructure and centralized web hosting systems for the ECE Department at SRM IST.
@@ -62,9 +56,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Technologies%20I%20Build%20With&fontSize=28&fontColor=bb9af7&animation=twinkling" />
-</div>
+<h2 align="center">Technologies I Build With</h2>
 
 <div align="center">
   <h3>Core</h3>
@@ -88,9 +80,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=GitHub%20Dashboard&fontSize=28&fontColor=7aa2f7&animation=twinkling" />
-</div>
+<h2 align="center">GitHub Dashboard</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justinsaju21&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -103,9 +93,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Activity%20Overview&fontSize=28&fontColor=bb9af7&animation=twinkling" />
-</div>
+<h2 align="center">Activity Overview</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinsaju21&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -115,9 +103,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Contribution%20Snake&fontSize=28&fontColor=7aa2f7&animation=twinkling" />
-</div>
+<h2 align="center">Contribution Snake</h2>
 
 <div align="center">
   <picture>
@@ -131,9 +117,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Development%20Summary&fontSize=28&fontColor=bb9af7&animation=twinkling" />
-</div>
+<h2 align="center">Development Summary</h2>
 
 <div align="center">
   <a href="https://github.com/justinsaju21">
@@ -145,9 +129,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Let's%20Connect&fontSize=28&fontColor=7aa2f7&animation=twinkling" />
-</div>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
   <p><i>Building practical technology with AI, embedded systems, and modern software.</i></p>
